@@ -34,7 +34,7 @@ entity_type = "IPHost"
 For additional information check **entity_type.txt** file.
 ### Respone Format
 API response is Python Diction with following format:
-```json
+```python
 response = {
     "status": "<STATUS_CODE>",
     "message": "<STATUS_DESCRIPTION_TEXT>",
